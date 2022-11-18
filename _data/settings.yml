@@ -38,7 +38,6 @@ hero:
   hero-title: Hi! I’m <br> Growing <br> Developer
 
 social:
-  - { icon: "ti-blog", link: "#" }
   - { icon: "ti-instagram", link: "#" }
 
 #-------------------------------
@@ -59,7 +58,7 @@ skills-title: Skills
 skills:
   - { name: Java, color: "#fdb157", value: "90%" }
   - { name: HTML, color: "#9473e6", value: "60%" }
-  - { name: 언어3, color: "#bdecf6", value: "80%" }
+  - { name: Python, color: "#bdecf6", value: "80%" }
   - { name: 언어4, color: "#ffbcaa", value: "70%" }
 
 
