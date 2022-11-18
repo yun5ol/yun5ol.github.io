@@ -50,7 +50,7 @@ blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-Backend Engineer, Web Developer
+
 #------------------------------
 # Stacks Section
 
@@ -62,18 +62,22 @@ stacks:
   - { name: CSS, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
-# Certificate
+# Certificate Section
 
-certificate-title: certification
+certificate-title: Certification
 certificate:
- -{
-    name: Engineer Information Processing
-    date of acquest : 2023.xxx 
-  }
-  -{
-    name: Toeic Speaking Lv.7
-    date of acquest : 2022.xxx 
-  }
+  - {
+      name: Engineer Information Processing,
+      icon: "icon-1.png",
+      date: "xxx 2023",
+      organization: "HRDK",
+    }
+  - {
+      name: Toeic Speaking Lv.7,
+      icon: "icon-2.png",
+      date: "Dec 2022",
+      organization: "ETS",
+    }
 
 #-------------------------------
 # Exprerience Section
