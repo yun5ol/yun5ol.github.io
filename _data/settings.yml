@@ -68,11 +68,11 @@ stacks:
 education-title: Education
 education:
   - {
-      name: Pukyung National University,
+      name: Pukyong National University,
       date: "2013-2017",
     }
   - {
-      name: Naver Cloud Platform,
+      name: Naver Cloud Platform AIassS 1st,
       date: "2022-2023",
     }
 
@@ -82,7 +82,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "https://github.com/yun5ol/yun5ol.github.io.git"
+    url: "https://github.com/yun5ol"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
