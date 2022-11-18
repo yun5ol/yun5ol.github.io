@@ -72,6 +72,6 @@ ___
 ### 인용문 (BlockQuote)  
 
    Example of a quote  
-   >warning : This text is Blockquotes ny Markdown syntex.  
+   >warning : This text is Blockquotes by Markdown syntex.  
    >>Blockquotes can also be nested  
 
