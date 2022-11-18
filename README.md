@@ -31,7 +31,7 @@ List B
 _also italic lettering_  
 **bold lettering**     
 __also bold lettering__  
-<u>underlined lettering</u>  
+<u>underlined lettering</u>
 <strike>lettering with strikethrough</strike>    
 
 ### 인용문 (BlockQuote)
