@@ -4,16 +4,12 @@
 
 title: Sol Yun
 logo:
-author: themefisher
+author: Sol Yun
 description: this is meta description
 email: yunsol2095@gmail.com
 phone: +82 10 3279 3309
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
-menu:
-  - { name: About, link: "/about" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
