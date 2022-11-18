@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Sol Yun
+title: YWNXOL
 logo:
 author: Sol Yun
 description: this is meta description
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Growing <br> Developer
+  hero-title: Hi! I’m <br> Developer
 
 social:
   - { icon: "ti-instagram", link: "#" }
