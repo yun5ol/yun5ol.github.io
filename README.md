@@ -27,13 +27,10 @@
 ### 강조 (Emphasis)
 ``` 
    *italic lettering*  
-   _also italic lettering_  
-
+   _also italic lettering_
    **bold lettering**   
-   __also bold lettering__  
-   
-   <u>underlined lettering</u>  
-   
+   __also bold lettering__
+   <u>underlined lettering</u>
    <strike>lettering with strikethrough</strike>  
 ```
 ### 인용문 (BlockQuote)
