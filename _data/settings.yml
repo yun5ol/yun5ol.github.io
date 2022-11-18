@@ -34,7 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sol <br> Developer
+  hero-title: Hi! I’m <br> Growing <br> Developer
 
 social:
   - { icon: "ti-blog", link: "#" }
@@ -44,14 +44,14 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 안녕하세요😉성장하는 개발자 윤솔입니다
+blurb: 안녕하세요😉 성장하는 개발자 윤솔입니다
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-
-#-------------------------------
+Backend Engineer, Web Developer
+#------------------------------
 # Stacks Section
 
 stacks-title: Stacks
@@ -61,6 +61,20 @@ stacks:
   - { name: NCP, color: "#bdecf6", value: "80%" }
   - { name: CSS, color: "#ffbcaa", value: "70%" }
 
+#-------------------------------
+# Certificate
+
+certificate-title: certification
+certificate:
+ -{
+    name: Engineer Information Processing
+    date of acquest : 2023.xxx 
+  }
+  -{
+    name: Toeic Speaking Lv.7
+    date of acquest : 2022.xxx 
+  }
+  
 #-------------------------------
 # Exprerience Section
 
