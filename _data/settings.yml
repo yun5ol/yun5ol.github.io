@@ -61,6 +61,23 @@ stacks:
   - { name: NCP, color: "#bdecf6", value: "80%" }
   - { name: CSS, color: "#ffbcaa", value: "70%" }
 
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+  - {
+      name: Nutritionist Manager,
+      icon: "icon-1.png",
+      date: "May 2017 - June 2019",
+      organization: "Pulmuone F&C Corp.",
+    }
+  - {
+      name: Management Support,
+      icon: "icon-2.png",
+      date: "Nov 2021 - Nov 2022",
+      organization: "Lunchlab Corp.",
+    }
 
 #-------------------------------
 # Education Section
@@ -85,16 +102,8 @@ portfolio-home-items:
     url: "https://github.com/yun5ol"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://github.com/yun5ol"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
 
 # Portfolio Page
 portfolio-label:
@@ -102,16 +111,16 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
   - image: "assets/images/portfolio/item-6.png"
-    url: "#"
+    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
 
 #-------------------------------
