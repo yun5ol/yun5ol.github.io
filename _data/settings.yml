@@ -1,0 +1,121 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Sol Yun
+logo:
+author: themefisher
+description: this is meta description
+email: yunsol2095@gmail.com
+phone: +82 10 3279 3309
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Portfolio, link: "/portfolio" }
+  - { name: Contact, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Sol <br> Developer
+
+social:
+  - { icon: "ti-blog", link: "#" }
+  - { icon: "ti-instagram", link: "#" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: 안녕하세요😉성장하는 개발자 윤솔입니다
+
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+# About Page
+
+#-------------------------------
+# Stacks Section
+
+stacks-title: Stacks
+stacks:
+  - { name: Java, color: "#fdb157", value: "90%" }
+  - { name: HTML, color: "#9473e6", value: "60%" }
+  - { name: NCP, color: "#bdecf6", value: "80%" }
+  - { name: CSS, color: "#ffbcaa", value: "70%" }
+
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+  - {
+      name: Pukyung National University,
+      date: "2013-2017",
+    }
+  - {
+      name: Naver Cloud Platform,
+      date: "2022-2023",
+    }
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image: "assets/images/portfolio/item-1.png"
+    url: "https://github.com/yun5ol/yun5ol.github.io.git"
+
+  - image: "assets/images/portfolio/item-2.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-4.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-5.png"
+    url: "#"
+
+# Portfolio Page
+portfolio-label:
+  - { title: "Project" }
+
+portfolio-items:
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-2.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-6.png"
+    url: "#"
+
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: yunsol2095@gmail.com
