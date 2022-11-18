@@ -50,3 +50,37 @@ ___
 | `222` | 가나다라마바사아 | abcdefgh |
 | `333` | 가나다라마바사아자차카타파하 | abcdef |
 | `444` | 가나다라마바사아자차 | abc |
+
+ 
+   *italic lettering*  
+   _also italic lettering_  
+
+   **bold lettering**   
+   __also bold lettering__   
+   
+   <u>underlined lettering</u>  
+   
+   <strike>lettering with strikethrough</strike>  
+
+### 2.4 수평선 (Horizontal Rule)  
+
+   하이픈 Hyphens
+   ---
+   별표 Asterisks
+   ***
+   밑줄 Underscores 
+   ___
+
+### 표 (Tables)  
+
+   | Title1(기본왼쪽정렬) | Title2(가운데정렬) | Title3(오른쪽정렬) |
+   |---|:---:|---:|
+   | content 1 | content 1 | content 1 |
+   | content 12345 | content 12345 | content 12345 |
+
+### 인용문 (BlockQuote)  
+
+   Example of a quote
+   >warning : This text is Blockquotes ny Markdown syntex.
+   >>Blockquotes can also be nested
+
