@@ -53,14 +53,15 @@ blurb-btn-name: know more
 # About Page
 
 #------------------------------
-# Stacks Section
+# Skills Section
 
-stacks-title: Stacks
-stacks:
+skills-title: Skills
+skills:
   - { name: Java, color: "#fdb157", value: "90%" }
   - { name: HTML, color: "#9473e6", value: "60%" }
-  - { name: NCP, color: "#bdecf6", value: "80%" }
-  - { name: CSS, color: "#ffbcaa", value: "70%" }
+  - { name: 언어3, color: "#bdecf6", value: "80%" }
+  - { name: 언어4, color: "#ffbcaa", value: "70%" }
+
 
 #-------------------------------
 # Certificate Section
