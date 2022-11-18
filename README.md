@@ -76,7 +76,5 @@ ___
    >>Blockquotes can also be nested  
 
 
-[Title](link)
-eg. [Google](https://google.com, "google link")  
-Title : <link>
-eg. 네이버 : <https://naver.com>
+[Google](https://google.com, "google link") 
+네이버 : <https://naver.com>
