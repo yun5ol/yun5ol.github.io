@@ -27,32 +27,22 @@ List B
    
 ### 강조 (Emphasis)
 
-*italic lettering*  
-_also italic lettering_
-**bold lettering**   
-__also bold lettering__
-<u>underlined lettering</u>
-<strike>lettering with strikethrough</strike>  
+*italic lettering*   
+_also italic lettering_  
+**bold lettering**     
+__also bold lettering__  
+<u>underlined lettering</u>  
+<strike>lettering with strikethrough</strike>    
 
 ### 인용문 (BlockQuote)
 
 하이픈 Hyphens
 ---
-별표 Asterisks 
+별표 Asterisks
 ***
 밑줄 Underscores  
 ___
 
-### 표 (Tables)
-
-| Title1(기본왼쪽정렬) | Title2(가운데정렬) | Title3(오른쪽정렬) |
-|---|:---:|---:|
-| `111` | 가나다라 | abc |
-| `222` | 가나다라마바사아 | abcdefgh |
-| `333` | 가나다라마바사아자차카타파하 | abcdef |
-| `444` | 가나다라마바사아자차 | abc |
-
- 
    *italic lettering*  
    _also italic lettering_  
 
@@ -69,7 +59,7 @@ ___
    ---
    별표 Asterisks
    ***
-   밑줄 Underscores 
+   밑줄 Underscores
    ___
 
 ### 표 (Tables)  
@@ -81,7 +71,7 @@ ___
 
 ### 인용문 (BlockQuote)  
 
-   Example of a quote
-   >warning : This text is Blockquotes ny Markdown syntex.
-   >>Blockquotes can also be nested
+   Example of a quote  
+   >warning : This text is Blockquotes ny Markdown syntex.  
+   >>Blockquotes can also be nested  
 
