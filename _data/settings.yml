@@ -4,15 +4,15 @@
 
 title: YWNXOL
 logo:
-author: Sol Yun
+author: themefisher
 description: this is meta description
 email: yunsol2095@gmail.com
 phone: +82 10 3279 3309
+address: Seoul / Busan based
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -35,50 +35,34 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Developer
+  hero-title: Hi! I’m <br> Growing <br> Developer
 
 social:
+  - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-dribbble", link: "#" }
+  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: 안녕하세요😉 성장하는 개발자 윤솔입니다
+blurb: 안녕하세요 🤗 성장하는 개발자 윤솔입니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
 
-#------------------------------
+#-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
   - { name: Java, color: "#fdb157", value: "90%" }
-  - { name: HTML, color: "#9473e6", value: "60%" }
-  - { name: Python, color: "#bdecf6", value: "80%" }
-  - { name: 언어4, color: "#ffbcaa", value: "70%" }
-
-
-#-------------------------------
-# Certificate Section
-
-certificate-title: Certification
-certificate:
-  - {
-      name: Engineer Information Processing,
-      icon: "icon-1.png",
-      date: "xxx 2023",
-      organization: "HRDK",
-    }
-  - {
-      name: Toeic Speaking Lv.7,
-      icon: "icon-2.png",
-      date: "Dec 2022",
-      organization: "ETS",
-    }
+  - { name: Python, color: "#9473e6", value: "60%" }
+  - { name: HTML, color: "#bdecf6", value: "80%" }
+  - { name: , color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -88,7 +72,7 @@ experience:
   - {
       name: Nutritionist Manager,
       icon: "icon-1.png",
-      date: "May 2017 - June 2019",
+      date: "Jan 2007 - Feb 2009May 2017 - June 2019",
       organization: "Pulmuone F&C Corp.",
     }
   - {
@@ -104,12 +88,12 @@ experience:
 education-title: Education
 education:
   - {
-      name: Pukyong National University,
-      date: "2013-2017",
+     name: Pukyong National University,
+      date: "2013-2017", name: Marters in UX Design,
     }
   - {
       name: Naver Cloud Platform AIaaS 1st,
-      date: "2022-2023",
+      date: "2022-2023",name: Honours in Fine Arts,
     }
 
 #-------------------------------
@@ -121,26 +105,68 @@ portfolio-home-items:
     url: "https://github.com/yun5ol"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
+  - image: "assets/images/portfolio/item-3.png"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+
+  - image: "assets/images/portfolio/item-4.png"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+
+  - image: "assets/images/portfolio/item-5.png"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "Project" }
+  - { title: "Project 1", type: "team" }
+  - { title: "Project 2", type: "team" }
+  - { title: "Project 3", type: "personal" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "#"
+    portfolio-type:
+      - type: "web"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "#"
+    portfolio-type:
+      - type: "app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "#"
+    portfolio-type:
+      - type: "wep"
 
   - image: "assets/images/portfolio/item-6.png"
-    url: "https://www.notion.so/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "#"
+    portfolio-type:
+      - type: "develop"
 
+  - image: "assets/images/portfolio/item-8.png"
+    url: "#"
+    portfolio-type:
+      - type: "web"
+
+  - image: "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+      - type: "develop"
+
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "app"
+
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "frontend"
+
+  - image: "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "backend"
 
 #-------------------------------
 # Contact Section
