@@ -89,11 +89,11 @@ education-title: Education
 education:
   - {
       name: Pukyong National University,
-      date: "2013-2017", name: Marters in UX Design,
+      date: "2013-2017", 
     }
   - {
       name: Naver Cloud Platform AIaaS 1st,
-      date: "2022-2023", name: Honours in Fine Arts,
+      date: "2022-2023", 
     }
 
 #-------------------------------
