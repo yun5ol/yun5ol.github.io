@@ -62,7 +62,7 @@ skills:
   - { name: Java, color: "#fdb157", value: "90%" }
   - { name: Python, color: "#9473e6", value: "60%" }
   - { name: HTML, color: "#bdecf6", value: "80%" }
-  - { name: , color: "#ffbcaa", value: "70%" }
+  - { name: ABCD, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -72,7 +72,7 @@ experience:
   - {
       name: Nutritionist Manager,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009May 2017 - June 2019",
+      date: "May 2017 - June 2019",
       organization: "Pulmuone F&C Corp.",
     }
   - {
@@ -88,12 +88,12 @@ experience:
 education-title: Education
 education:
   - {
-     name: Pukyong National University,
+      name: Pukyong National University,
       date: "2013-2017", name: Marters in UX Design,
     }
   - {
       name: Naver Cloud Platform AIaaS 1st,
-      date: "2022-2023",name: Honours in Fine Arts,
+      date: "2022-2023", name: Honours in Fine Arts,
     }
 
 #-------------------------------
