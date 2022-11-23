@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Johnathan Smith
-image: assets/images/about/author.jpg
+image: assets/images/about/sol.jpg
 signature: assets/images/about/signature.png
 ---
 
