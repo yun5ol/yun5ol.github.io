@@ -6,5 +6,4 @@ image: assets/images/about/sol.jpg
 signature: 
 ---
 
-안녕하세요
-자기소개를 써볼게요
+Hello hello
