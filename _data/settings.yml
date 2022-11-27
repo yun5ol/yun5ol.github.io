@@ -38,10 +38,8 @@ hero:
   hero-title: Hi! I’m <br> Growing <br> Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/yun5ol" }
+
 
 #-------------------------------
 # About (Section and Page)
@@ -102,7 +100,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "https://github.com/yun5ol"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
@@ -124,47 +122,47 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "web"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "wep"
 
   - image: "assets/images/portfolio/item-6.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "develop"
 
   - image: "assets/images/portfolio/item-8.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "web"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "develop"
 
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "frontend"
 
   - image: "assets/images/portfolio/item-7.png"
-    url: "#"
+    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
     portfolio-type:
       - type: "backend"
 
