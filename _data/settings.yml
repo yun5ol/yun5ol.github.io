@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: YWNXOL
+title: YUNSOL
 logo:
 author: yun5ol
 description: this is meta description
@@ -37,8 +37,6 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: Hi! I’m <br> Growing <br> Developer
 
-social:
-  - { icon: "ti-github", link: "https://github.com/yun5ol" }
 
 
 #-------------------------------
@@ -51,6 +49,7 @@ blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
+blurb: 안녕하세요
 
 #-------------------------------
 # Skills Section
@@ -103,16 +102,16 @@ portfolio-home-items:
     url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/Markdown"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88.md"
 
   - image: "assets/images/portfolio/item-4.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/Linux%20%EA%B8%B0%EC%B4%88.md"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/HTML.md"
 
 # Portfolio Page
 portfolio-label:
@@ -127,42 +126,42 @@ portfolio-items:
       - type: "web"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/Linux%20%EA%B8%B0%EC%B4%88.md"
     portfolio-type:
       - type: "app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/HTML.md"
     portfolio-type:
       - type: "wep"
 
   - image: "assets/images/portfolio/item-6.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/Markdown"
     portfolio-type:
       - type: "develop"
 
   - image: "assets/images/portfolio/item-8.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%20%EC%A4%80%EB%B9%84%20.md"
     portfolio-type:
       - type: "web"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88.md"
     portfolio-type:
       - type: "develop"
 
   - image: "assets/images/portfolio/item-1.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/HTTP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md"
     portfolio-type:
       - type: "app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/blob/main/Git%20%EC%82%AC%EC%9A%A9%EB%B2%95.md"
     portfolio-type:
       - type: "frontend"
 
   - image: "assets/images/portfolio/item-7.png"
-    url: "https://www.notion.so/yun5ol-til/Sol-s-TIL-6fab8aa7e5544117b17520dfcb40f454"
+    url: "https://github.com/yun5ol/TIL/commit/ba517787fe5fc45ac402ee8eb67f13e1c38339e4"
     portfolio-type:
       - type: "backend"
 
