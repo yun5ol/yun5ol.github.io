@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Developer
+  hero-title: Hi! I’m <br> Developer.
 
 
 
@@ -49,7 +49,6 @@ blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-blurb: 안녕하세요
 
 #-------------------------------
 # Skills Section
